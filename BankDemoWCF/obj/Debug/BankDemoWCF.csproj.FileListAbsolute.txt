@@ -1,0 +1,7 @@
+C:\Users\vaibh\source\repos\BankPocWPF\BankDemoWCF\bin\Debug\BankDemoWCF.dll.config
+C:\Users\vaibh\source\repos\BankPocWPF\BankDemoWCF\bin\Debug\BankDemoWCF.dll
+C:\Users\vaibh\source\repos\BankPocWPF\BankDemoWCF\bin\Debug\BankDemoWCF.pdb
+C:\Users\vaibh\source\repos\BankPocWPF\BankDemoWCF\obj\Debug\BankDemoWCF.csprojAssemblyReference.cache
+C:\Users\vaibh\source\repos\BankPocWPF\BankDemoWCF\obj\Debug\BankDemoWCF.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\source\repos\BankPocWPF\BankDemoWCF\obj\Debug\BankDemoWCF.dll
+C:\Users\vaibh\source\repos\BankPocWPF\BankDemoWCF\obj\Debug\BankDemoWCF.pdb
